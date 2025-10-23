@@ -2,7 +2,7 @@
 
 <!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Hasnainr+👋;MERN+Stack+Developer+🚀;Love+to+Build+Modern+Apps+💻;Always+Learning+%26+Improving+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Hasnain+👋;MERN+Stack+Developer+🚀;Love+to+Build+Modern+Apps+💻;Always+Learning+%26+Improving+✨" alt="Typing SVG" />
 </p>
 
 ---
